@@ -77717,7 +77717,7 @@ $S:90}
 A.a3j.prototype={
 $1(a){var s=this.a,r=s.r
 if(r.cy===2){r.F0(1,1)
-A.Gg($.bI(),new A.fI("I'll blow your brains out",r.cx+" removed "+r.fy+" balls from "+r.fx,null),t.z).bU(new A.a3h(s),t.P)}},
+A.Gg($.bI(),new A.fI("I'll blow your brains out",r.cx+" removed "+r.fy+" balls from box number "+r.fx,null),t.z).bU(new A.a3h(s),t.P)}},
 $S:21}
 A.a3h.prototype={
 $1(a){var s=this.a.r
